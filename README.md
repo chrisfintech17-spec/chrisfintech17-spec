@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 💻 Actualmente aprendiendo Ciencia de Datos en Producción
 - 🌱 Intereses: NLP, MLOps, visión por computador, Producción y creación de agentes
 - 📫 Cómo contactarme: LinkedIn: https://www.linkedin.com/in/cristian-david-ceballos-v%C3%A9lez-5a456240
+- git commit -m
