@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hola, soy Cristian David Ceballos Vélez 👋
+
+- 🎓 Estudiante de la Maestría en Ciencia de Datos — UPB
+- 💻 Actualmente aprendiendo Ciencia de Datos en Producción
+- 🌱 Intereses: NLP, MLOps, visión por computador, Producción y creación de agentes
+- 📫 Cómo contactarme: Chrisfintech17@gmail.com, LinkedIn: https://www.linkedin.com/in/cristian-david-ceballos-v%C3%A9lez-5a456240
