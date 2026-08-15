@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🎓 Estudiante de la Maestría en Ciencia de Datos — UPB
 - 💻 Actualmente aprendiendo Ciencia de Datos en Producción
 - 🌱 Intereses: NLP, MLOps, visión por computador, Producción y creación de agentes
-- 📫 Cómo contactarme: Chrisfintech17@gmail.com, LinkedIn: https://www.linkedin.com/in/cristian-david-ceballos-v%C3%A9lez-5a456240
+- 📫 Cómo contactarme: LinkedIn: https://www.linkedin.com/in/cristian-david-ceballos-v%C3%A9lez-5a456240
